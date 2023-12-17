@@ -10,6 +10,8 @@ Futur CyberSecurity Engineer
 
 🛠️ My arsenal comprises a lethal combination of lines of code and creative ideas. If you're looking for me, I'm probably debugging something, deploying a new feature, or diving into the mysteries of cybersecurity. Join me on this infinite adventure of code, where each line is a story, and each commit is a step closer to digital excellence. 🚀✨
 
+<img align="right" alt="Codage" width="400" src="https://i.pinimg.com/originals/9c/18/fd/9c18fdf528054ff9ff7ddfae62ee107a.gif">
+
 *   🌍  I'm based in Paris
 *   ✉️  You can contact me at [romain.gas@efrei.net](mailto:romain.gas@efrei.net)
 *   🧠  I'm learning Currently, I'm deep into expanding my cybersecurity skills. My focus includes diving into digital forensics, web server intrusion, and mastering tools like Palo Alto and Azure. Keeping pace with the ever-evolving threat landscape, I'm committed to enhancing my skills to fortify digital defenses. 🚀🔒
@@ -45,6 +47,7 @@ Futur CyberSecurity Engineer
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
       </picture>
       </a></p>
-      ### Badges<b>My GitHub Stats</b><a
+      ### Badges
+      <b>My GitHub Stats</b><a
         href="http://www.github.com/romso94"><img
     src="https://github-readme-streak-stats.herokuapp.com/?user=romso94&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
