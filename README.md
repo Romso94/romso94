@@ -6,9 +6,12 @@ Futur CyberSecurity Engineer
 
 <img align="right" alt="Codage" width="400" src="https://cdn.dribbble.com/users/2372549/screenshots/14982529/media/57be2dfe50556fb34757e1b309147974.png">
 
+
 💻 Currently in love with the trio of C, Java, and Python, I've crafted projects with HTML and CSS to bring my ideas to life. My hands have danced across various Linux distributions, notably Kali and Parrot OS, where I delved into the intricacies of cybersecurity. 
 
+
 🚀 Venturing into the web, I've developed projects using React, React Native, and Vue.js frameworks to craft seamless and engaging user experiences. On the server side, I've shaped APIs with the powerful Express.js. 
+
 
 🛠️ My arsenal comprises a lethal combination of lines of code and creative ideas. If you're looking for me, I'm probably debugging something, deploying a new feature, or diving into the mysteries of cybersecurity. Join me on this infinite adventure of code, where each line is a story, and each commit is a step closer to digital excellence. 🚀✨
 
@@ -49,7 +52,14 @@ Futur CyberSecurity Engineer
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
       </picture>
       </a></p>
-      ### Badges
-      <b>My GitHub Stats</b><a
-        href="http://www.github.com/romso94"><img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=romso94&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+      
+### Badges
+<b>My GitHub Stats</b>
+
+
+
+      
+  <a href="http://www.github.com/romso94">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=romso94&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
