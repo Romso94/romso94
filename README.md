@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Futur CyberSecurity Engineer
 ----------------------------
 
-💻 Currently in love with the trio of C, Java, and Python, I've crafted projects with HTML and CSS to bring my ideas to life. My hands have danced across various Linux distributions, notably Kali and Parrot OS, where I delved into the intricacies of cybersecurity. 🚀 Venturing into the web, I've developed projects using React, React Native, and Vue.js frameworks to craft seamless and engaging user experiences. On the server side, I've shaped APIs with the powerful Express.js. 🛠️ My arsenal comprises a lethal combination of lines of code and creative ideas. If you're looking for me, I'm probably debugging something, deploying a new feature, or diving into the mysteries of cybersecurity. Join me on this infinite adventure of code, where each line is a story, and each commit is a step closer to digital excellence. 🚀✨
+💻 Currently in love with the trio of C, Java, and Python, I've crafted projects with HTML and CSS to bring my ideas to life. My hands have danced across various Linux distributions, notably Kali and Parrot OS, where I delved into the intricacies of cybersecurity. 
+
+🚀 Venturing into the web, I've developed projects using React, React Native, and Vue.js frameworks to craft seamless and engaging user experiences. On the server side, I've shaped APIs with the powerful Express.js. 
+
+🛠️ My arsenal comprises a lethal combination of lines of code and creative ideas. If you're looking for me, I'm probably debugging something, deploying a new feature, or diving into the mysteries of cybersecurity. Join me on this infinite adventure of code, where each line is a story, and each commit is a step closer to digital excellence. 🚀✨
 
 *   🌍  I'm based in Paris
 *   ✉️  You can contact me at [romain.gas@efrei.net](mailto:romain.gas@efrei.net)
