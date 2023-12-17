@@ -10,7 +10,7 @@ Futur CyberSecurity Engineer
 
 🛠️ My arsenal comprises a lethal combination of lines of code and creative ideas. If you're looking for me, I'm probably debugging something, deploying a new feature, or diving into the mysteries of cybersecurity. Join me on this infinite adventure of code, where each line is a story, and each commit is a step closer to digital excellence. 🚀✨
 
-<img align="right" alt="Codage" width="400" src="https://i.pinimg.com/originals/9c/18/fd/9c18fdf528054ff9ff7ddfae62ee107a.gif">
+<img align="right" alt="Codage" width="400" src="https://media1.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif?cid=6c09b952twckqelxyg5lhmu9hn1qh0b4knlp1eussspxh6ko&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 *   🌍  I'm based in Paris
 *   ✉️  You can contact me at [romain.gas@efrei.net](mailto:romain.gas@efrei.net)
