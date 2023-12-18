@@ -4,16 +4,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Futur CyberSecurity Engineer
 ----------------------------
 
-<img align="right" alt="Codage" width="400" src="https://cdn.dribbble.com/users/2372549/screenshots/14982529/media/57be2dfe50556fb34757e1b309147974.png">
+<img align="right" alt="Codage" width="400" src="https://img.freepik.com/vecteurs-libre/concept-activite-pirate-illustre_23-2148534299.jpg">
 
 
-💻 Currently in love with the trio of C, Java, and Python, I've crafted projects with HTML and CSS to bring my ideas to life. My hands have danced across various Linux distributions, notably Kali and Parrot OS, where I delved into the intricacies of cybersecurity. 
+💻 Currently infatuated with the coding trio of C, Java, and Python, I've woven projects with HTML and CSS, breathing life into my ideas. Navigating through various Linux distributions like Kali and Parrot OS, I've immersed myself in the intricate world of cybersecurity.
 
+🚀 Venturing further into the digital frontier, I've forged projects using React, React Native, and Vue.js, sculpting seamless user experiences. On the security front, I've fortified systems by crafting APIs with the robust Express.js.
 
-🚀 Venturing into the web, I've developed projects using React, React Native, and Vue.js frameworks to craft seamless and engaging user experiences. On the server side, I've shaped APIs with the powerful Express.js. 
+🔐 Armed with a potent blend of code and creative insight, my endeavors often involve debugging, deploying new features, and unraveling the mysteries of cybersecurity. Beyond the coding realm, I'm an avid participant in Capture The Flag (CTF) challenges, continuously learning and honing my skills autonomously.
 
-
-🛠️ My arsenal comprises a lethal combination of lines of code and creative ideas. If you're looking for me, I'm probably debugging something, deploying a new feature, or diving into the mysteries of cybersecurity. Join me on this infinite adventure of code, where each line is a story, and each commit is a step closer to digital excellence. 🚀✨
+🌐 Enthusiastically carving my path in cybersecurity, I find immense joy in penetration testing, cryptography, and the intricacies of digital forensics. Recently delving into the realms of steganography and reverse engineering, I'm driven by a passion to understand the inner workings of systems. My journey is one of constant exploration, fueled by the desire to contribute my skills to the ever-evolving landscape of cybersecurity. 🛡️💻
 
 
 
