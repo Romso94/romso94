@@ -1,8 +1,7 @@
 
 
-<p align="center"><img src="https://github.com/linuxdotexe/nordic-wallpapers/blob/master/wallpapers/ign_batman.png" width="100%" /></p>
+<p align="center"><img src="https://github.com/linuxdotexe/nordic-wallpapers/blob/master/wallpapers/ign_batman.png"  /></p>
 
----
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -10,7 +9,10 @@
   </a>
 </div>
 
-----------------------------
+<h2 align="left">
+  Hi 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+</h2>
 
 <img align="right" alt="Codage" width="400" src="https://img.freepik.com/vecteurs-libre/concept-activite-pirate-illustre_23-2148534299.jpg">
 
@@ -19,19 +21,20 @@ I am Romso, a junior hacker and vulnerabilities researcher, aspiring cybersecuri
 <details>
   <summary>More about me</summary>
 
-- **Name**: Romso
-- **From**: France
-- **Junior Pentester** | **Junior Security Analyst** | **Database Hunter**
-- i have experience in Web vulnerabilities.
-- Improving knowledge in **Website Pentesting**, **Red teaming** 
-- I’m currently learning **everything** 
-- Reach me out at [romain.gas@efrei.net](mailto:romain.gas@efrei.net)
+-  **Name**: Romso
+-  **From**: France
+-  **Junior Pentester** | **Junior Security Analyst** | **Database Hunter**
+-  i have experience in Web vulnerabilities.
+-  Improving knowledge in **Website Pentesting**, **Red teaming** 
+-  I’m currently learning **everything** 
+-  Reach me out at [romain.gas@efrei.net](mailto:romain.gas@efrei.net)
 
 </details>
 
 
+--- 
 
-### Skills 
+<h2 id="github_stats" align=''>Skills ⚔️</h2> 
 <p align="left">
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
       <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
@@ -60,7 +63,7 @@ I am Romso, a junior hacker and vulnerabilities researcher, aspiring cybersecuri
 ---
 
 
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
+<h2 id="github_stats" align=''>GitHub Stats 📊</h2>
 <img align="right" width="44%" src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59"/>
  
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=romso94&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/romso94/github-readme-stats)
