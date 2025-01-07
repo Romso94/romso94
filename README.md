@@ -14,7 +14,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-<img align="right" alt="Codage" width="400" src="https://img.freepik.com/vecteurs-libre/concept-activite-pirate-illustre_23-2148534299.jpg">
+<img align="right" alt="Codage" width="400" src="https://media1.tenor.com/m/Zp9f2I9FpFcAAAAd/anonimous-hacker.gif">
 
 I am Romso, a junior hacker and vulnerabilities researcher, aspiring cybersecurity specialist, and red teaming. With a strong passion for technology and expertise in web pentesting, my goal is to join a Red Team and contribute to securing digital assets. Although I am still young in the field and not yet graduated, I am determined to learn and grow to create a safer online community.
 
