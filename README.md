@@ -1,6 +1,6 @@
 
-
-<p align="center"><img src="https://github.com/linuxdotexe/nordic-wallpapers/blob/master/wallpapers/ign_batman.png"  /></p>
+ <> https://github.com/linuxdotexe/nordic-wallpapers/blob/master/wallpapers/ign_batman.png
+<p align="center"><img src="https://github.com/linuxdotexe/nordic-wallpapers/blob/master/wallpapers/windows-panic.png" /></p>
 
 
 <div align="center">
