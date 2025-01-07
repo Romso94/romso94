@@ -16,7 +16,7 @@
 
 <img align="right" alt="Codage" width="400" src="https://media1.tenor.com/m/Zp9f2I9FpFcAAAAd/anonimous-hacker.gif">
 
-I am Romso, a junior hacker and vulnerabilities researcher, aspiring cybersecurity specialist, and red teaming. With a strong passion for technology and expertise in web pentesting, my goal is to join a Red Team and contribute to securing digital assets. Although I am still young in the field and not yet graduated, I am determined to learn and grow to create a safer online community.
+I am Romso, a junior hacker and vulnerability researcher, aspiring cybersecurity specialist, and Red Team member. With a strong passion for technology and expertise in web pentesting, my goal is to join a Red Team and contribute to securing digital assets. Although I am still young in the field and not yet graduated, I am determined to learn and grow to create a safer online community.
 
 <details>
   <summary>More about me</summary>
