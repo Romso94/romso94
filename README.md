@@ -1,25 +1,34 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Romain
-=============================================================================================================================
 
-Futur CyberSecurity Engineer
+
+<p align="center"><img src="https://github.com/linuxdotexe/nordic-wallpapers/blob/master/wallpapers/ign_batman.png" width="100%" /></p>
+
+---
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=On+journey+to+become+a+Red+Teamer" alt="Typing SVG" />
+  </a>
+</div>
+
 ----------------------------
 
 <img align="right" alt="Codage" width="400" src="https://img.freepik.com/vecteurs-libre/concept-activite-pirate-illustre_23-2148534299.jpg">
 
+I am Romso, a junior hacker and vulnerabilities researcher, aspiring cybersecurity specialist, and red teaming. With a strong passion for technology and expertise in web pentesting, my goal is to join a Red Team and contribute to securing digital assets. Although I am still young in the field and not yet graduated, I am determined to learn and grow to create a safer online community.
 
-💻 Currently infatuated with the coding trio of C, Java, and Python, I've woven projects with HTML and CSS, breathing life into my ideas. Navigating through various Linux distributions like Kali and Parrot OS, I've immersed myself in the intricate world of cybersecurity.
+<details>
+  <summary>More about me</summary>
 
-🚀 Venturing further into the digital frontier, I've forged projects using React, React Native, and Vue.js, sculpting seamless user experiences. On the security front, I've fortified systems by crafting APIs with the robust Express.js.
+- **Name**: Romso
+- **From**: France
+- **Junior Pentester** | **Junior Security Analyst** | **Database Hunter**
+- i have experience in Web vulnerabilities.
+- Improving knowledge in **Website Pentesting**, **Red teaming** 
+- I’m currently learning **everything** 
+- Reach me out at [romain.gas@efrei.net](mailto:romain.gas@efrei.net)
 
-🔐 Armed with a potent blend of code and creative insight, my endeavors often involve debugging, deploying new features, and unraveling the mysteries of cybersecurity. Beyond the coding realm, I'm an avid participant in Capture The Flag (CTF) challenges, continuously learning and honing my skills autonomously.
+</details>
 
-🌐 Enthusiastically carving my path in cybersecurity, I find immense joy in penetration testing, cryptography, and the intricacies of digital forensics. Recently delving into the realms of steganography and reverse engineering, I'm driven by a passion to understand the inner workings of systems. My journey is one of constant exploration, fueled by the desire to contribute my skills to the ever-evolving landscape of cybersecurity. 🛡️💻
-
-
-
-*   🌍  I'm based in Paris
-*   ✉️  You can contact me at [romain.gas@efrei.net](mailto:romain.gas@efrei.net)
-*   🧠  I'm learning Currently, I'm deep into expanding my cybersecurity skills. My focus includes diving into digital forensics, web server intrusion, and mastering tools like Palo Alto and Azure. Keeping pace with the ever-evolving threat landscape, I'm committed to enhancing my skills to fortify digital defenses. 🚀🔒
 
 
 ### Skills 
@@ -55,7 +64,7 @@ Futur CyberSecurity Engineer
 <img align="right" width="44%" src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59"/>
  
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=romso94&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/romso94/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=romso94&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=romso94&theme=dark)](https://git.io/streak-stats)
  <p align="left"><a href="https://github.com/romso94/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romso94&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
 <br><br>
