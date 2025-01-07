@@ -46,44 +46,20 @@ Futur CyberSecurity Engineer
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
       <img src="https://img.shields.io/badge/Qualys-red?style=for-the-badge&logo=qualys&color=000000" alt="Qualys" />
-
-              
-                    
-  ### Socials
-                  
-                  
-  <p align="left">
-        <a href="https://www.github.com/romso94" target="_blank" rel="noreferrer">
-      <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-      </picture>
-      </a>
-        <a href="https://www.linkedin.com/in/romain-gas" target="_blank" rel="noreferrer">
-      <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-      </picture>
-      </a>
      
-  <!---
-  <a href="https://www.x.com/Romso" target="_blank" rel="noreferrer">
-      <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-      </picture>
-      </a></p>
--->
 
-      
-### Badges
-<b>My GitHub Stats</b>
+---
 
 
+<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
+<img align="right" width="44%" src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59"/>
+ 
+  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=romso94&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/romso94/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=romso94&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
+ <p align="left"><a href="https://github.com/romso94/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romso94&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
-      
-  <a href="http://www.github.com/romso94">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=romso94&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<br><br>
+
+
+
+    
