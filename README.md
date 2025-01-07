@@ -1,9 +1,6 @@
 
- <!---
-[your comment goes here
-and here](https://github.com/linuxdotexe/nordic-wallpapers/blob/master/wallpapers/ign_batman.png)
---> 
-<p align="center"><img src="https://github.com/linuxdotexe/nordic-wallpapers/blob/master/wallpapers/windows-panic.png" /></p>
+ 
+<p align="center"><img src="https://github.com/linuxdotexe/nordic-wallpapers/blob/master/wallpapers/ign_batman.png" /></p>
 
 
 <div align="center">
