@@ -16,7 +16,7 @@
 
 <img align="right" alt="Codage" width="400" src="https://media1.tenor.com/m/Zp9f2I9FpFcAAAAd/anonimous-hacker.gif">
 
-<p>I am Romso, a junior hacker and vulnerability researcher, aspiring cybersecurity specialist, and Red Team member. With a strong passion for technology and expertise in web pentesting, my goal is to join a Red Team and contribute to securing digital assets. Although I am still young in the field and not yet graduated, I am determined to learn and grow to create a safer online community.
+<p>I am Romso, a junior cybersecurity enthousiast with a strong passion for technology and expertise in web pentesting. Although I am still young in the field and not yet graduated, I am determined to learn and grow to create a safer online community.
 </p>
 <details>
   <summary>More about me</summary>
@@ -25,7 +25,7 @@
 -  **From**: France
 -  **Junior Pentester** | **Junior Security Analyst** | **Database Hunter**
 -  i have experience in Web vulnerabilities.
--  Improving knowledge in **Website Pentesting**, **Red teaming** 
+-  Improving knowledge in **Website Pentesting**, **SecOps** 
 -  I’m currently learning **everything** 
 -  Reach me out at [romain.gas@efrei.net](mailto:romain.gas@efrei.net)
 
