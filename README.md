@@ -23,7 +23,7 @@
 
 -  **Name**: Romso
 -  **From**: France
--  **Junior Security Analyst** | **Database Hunter** |**
+-  **Junior Security Analyst** 
 -  i have experience in Web vulnerabilities.
 -  Improving knowledge in **Website Pentesting**, **SecOps** and **Soc Analysis**
 -  I’m currently learning **everything** 
